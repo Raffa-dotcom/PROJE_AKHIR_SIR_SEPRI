@@ -20,3 +20,4 @@ Bumi (149.6) dan Mars (227.9) → |227.9 - 149.6| = 78.3 juta km
 ## 📂 Cara Menjalankan
 ```bash
 python main.py
+![Cuplikan layar 2025-05-30 155937](https://github.com/user-attachments/assets/38695030-accc-4e80-8bf3-996d7817fd3a)
